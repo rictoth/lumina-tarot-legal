@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} — {{ site.title }}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<style>
+  :root {
+    --fundo: #ffffff;
+    --texto: #1b1b1f;
+    --suave: #5c5c66;
+    --linha: #e3e3e8;
+    --realce: #5b4b8a;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --fundo: #131318;
+      --texto: #e6e1e9;
+      --suave: #a9a5b0;
+      --linha: #2e2e36;
+      --realce: #c9bcf0;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--fundo);
+    color: var(--texto);
+    font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+  main { max-width: 40rem; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+  h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 1.5rem; }
+  h2 { font-size: 1.2rem; margin: 2.25rem 0 .6rem; }
+  h3 { font-size: 1.05rem; margin: 1.75rem 0 .5rem; }
+  p, li { overflow-wrap: break-word; }
+  ul { padding-left: 1.25rem; }
+  li { margin: .35rem 0; }
+  a { color: var(--realce); }
+  hr { border: 0; border-top: 1px solid var(--linha); margin: 2.5rem 0; }
+  code { font-size: .95em; }
+  .navegacao { max-width: 40rem; margin: 0 auto; padding: 1.25rem 1.25rem 0; font-size: .9rem; }
+  .navegacao a { color: var(--suave); text-decoration: none; }
+  .navegacao a:hover { text-decoration: underline; }
+  .rodape { max-width: 40rem; margin: 0 auto; padding: 0 1.25rem 3rem; color: var(--suave); font-size: .85rem; }
+</style>
+</head>
+<body>
+{% if page.url != "/" and page.url != "/index.html" %}
+<nav class="navegacao"><a href="{{ '/' | relative_url }}">&larr; Documentos do {{ site.title }}</a></nav>
+{% endif %}
+<main>
+{{ content }}
+</main>
+<footer class="rodape">{{ site.title }} — dúvidas sobre estes documentos: <a href="mailto:tothgoncalvessd@gmail.com">tothgoncalvessd@gmail.com</a></footer>
+</body>
+</html>

@@ -1,0 +1,10 @@
+title: Lumina Tarot
+description: Política de Privacidade e Termos de Uso do aplicativo Lumina Tarot.
+lang: pt-BR
+
+# Os dois documentos moram em _includes/ como cópias byte a byte dos arquivos que o
+# aplicativo exibe (app/src/main/assets/legal/). As páginas .html deste repositório
+# apenas os convertem para HTML — nenhum texto legal é editado aqui.
+exclude:
+  - README.md
+  - atualizar.ps1
