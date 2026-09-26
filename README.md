@@ -1,7 +1,11 @@
-# Documentos legais do Lumina Tarot
+# Documentos legais do Pílulas de Tarô
 
 Repositório **público e separado** que hospeda, via GitHub Pages, a Política de Privacidade e os
-Termos de Uso do aplicativo **Lumina Tarot** (`com.tgsoftware.auratarot`).
+Termos de Uso do aplicativo **Pílulas de Tarô** (`com.tgsoftware.auratarot`).
+
+📌 O nome do repositório (`lumina-tarot-legal`) é o do app antigo e **fica assim de propósito**: ele
+está dentro das URLs abaixo, que são citadas no Play Console e no formulário de Segurança dos
+dados. Renomeá-lo trocaria as URLs.
 
 Ele existe separado do repositório do aplicativo por um motivo só: o GitHub Pages serve a pasta
 inteira que você apontar para ele. Apontá-lo para a `docs/` do repositório do app publicaria na
