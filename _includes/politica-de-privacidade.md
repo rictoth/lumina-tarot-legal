@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-**Pílulas de Tarô** — última atualização: 22 de setembro de 2026
+**Pílulas de Tarô** — última atualização: 28 de setembro de 2026
 
 ## Em uma frase
 
@@ -10,11 +10,13 @@ O conteúdo das suas leituras — a pergunta, as cartas, o texto que você receb
 
 **Em 22 de setembro de 2026** o texto foi conferido linha a linha contra o aplicativo que está no ar, e corrigido em três pontos: como identificar a sua carteira quando você exerce os seus direitos, em que momento o vínculo com a conta Google é oferecido e a idade mínima, que é a mesma dos Termos de Uso.
 
+**Em 28 de setembro de 2026** o endereço de contato passou a ser contato@tgsd.com.br. O endereço anterior deixa de ser o canal oficial.
+
 ## 1. Quem é responsável pelo tratamento
 
 As Pílulas de Tarô são desenvolvidas e mantidas por Ricardo Toth Gonçalves, a quem cabe o papel de controlador dos dados pessoais tratados pelo aplicativo, nos termos da Lei Geral de Proteção de Dados (Lei nº 13.709/2018).
 
-Contato para qualquer assunto relativo a privacidade: tothgoncalvessd@gmail.com
+Contato para qualquer assunto relativo a privacidade: contato@tgsd.com.br
 
 ## 2. Não há cadastro, mas há um identificador
 
@@ -138,7 +140,7 @@ A LGPD garante a você, no artigo 18, o direito de obter confirmação da exist�
 Na prática, nas Pílulas de Tarô, isso se divide em dois:
 
 - **O histórico das suas leituras está nas suas mãos**, dentro do aplicativo, sem precisar pedir a ninguém. Acesso e eliminação são imediatos.
-- **A carteira de créditos está conosco.** Para obter cópia dos seus movimentos de crédito, corrigi-los ou pedir a eliminação da carteira, escreva para tothgoncalvessd@gmail.com. O prazo de resposta é de até 15 dias. ⚠️ **Precisamos conseguir dizer qual carteira é a sua**, e como fazer isso depende da sua situação: se você **vinculou a conta Google**, escreva do próprio endereço vinculado, que o aplicativo mostra em Configurações; se você **comprou créditos sem vincular**, informe o **ID do pedido do Google Play**, que está no e-mail de confirmação da compra. ⛔ **Se você nunca vinculou a conta e nunca comprou, a sua carteira é identificada apenas por um código anônimo que vive no aparelho, e não temos como ligá-la a você a distância** — nesse caso ela contém somente créditos gratuitos, e apagar os dados do aplicativo torna essa carteira inalcançável para todos, inclusive para nós. ⚠️ **Eliminar a carteira apaga os créditos não usados, inclusive os comprados, e isso não tem volta.** Vamos dizer isso a você de novo antes de fazer.
+- **A carteira de créditos está conosco.** Para obter cópia dos seus movimentos de crédito, corrigi-los ou pedir a eliminação da carteira, escreva para contato@tgsd.com.br. O prazo de resposta é de até 15 dias. ⚠️ **Precisamos conseguir dizer qual carteira é a sua**, e como fazer isso depende da sua situação: se você **vinculou a conta Google**, escreva do próprio endereço vinculado, que o aplicativo mostra em Configurações; se você **comprou créditos sem vincular**, informe o **ID do pedido do Google Play**, que está no e-mail de confirmação da compra. ⛔ **Se você nunca vinculou a conta e nunca comprou, a sua carteira é identificada apenas por um código anônimo que vive no aparelho, e não temos como ligá-la a você a distância** — nesse caso ela contém somente créditos gratuitos, e apagar os dados do aplicativo torna essa carteira inalcançável para todos, inclusive para nós. ⚠️ **Eliminar a carteira apaga os créditos não usados, inclusive os comprados, e isso não tem volta.** Vamos dizer isso a você de novo antes de fazer.
 
 ## 12. Crianças e adolescentes
 
@@ -158,4 +160,4 @@ Alterações relevantes serão publicadas nesta mesma página, com nova data de 
 
 ## 15. Contato
 
-tothgoncalvessd@gmail.com
+contato@tgsd.com.br

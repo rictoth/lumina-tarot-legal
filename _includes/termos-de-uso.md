@@ -1,6 +1,6 @@
 # Termos de Uso
 
-**Pílulas de Tarô** — última atualização: 26 de setembro de 2026
+**Pílulas de Tarô** — última atualização: 28 de setembro de 2026
 
 ## 1. Aceitação
 
@@ -37,7 +37,7 @@ Isso tem consequências que você precisa conhecer:
 - O modelo pode, ocasionalmente, produzir conteúdo inadequado ou fora do contexto, apesar das instruções em contrário.
 - Quando o serviço de IA está indisponível, o aplicativo apresenta um texto de reserva escrito previamente, sinalizado na tela.
 
-Se você encontrar uma resposta ofensiva, prejudicial ou claramente inadequada, use o botão de **sinalizar** disponível na própria leitura, ou escreva para tothgoncalvessd@gmail.com. As sinalizações são analisadas e usadas para ajustar as instruções dadas ao modelo.
+Se você encontrar uma resposta ofensiva, prejudicial ou claramente inadequada, use o botão de **sinalizar** disponível na própria leitura, ou escreva para contato@tgsd.com.br. As sinalizações são analisadas e usadas para ajustar as instruções dadas ao modelo.
 
 ## 5. Idade mínima
 
@@ -76,13 +76,13 @@ Antes de chamar o serviço de inteligência artificial, o aplicativo **reserva**
 
 Dizemos isso claramente porque é o único caso em que você pode perder um crédito sem ter lido nada. A razão é que a reserva só nasce **quando a chamada ao serviço de IA vai de fato acontecer** — nesse ponto o custo já foi incorrido do nosso lado, e o texto pode ter sido gerado sem chegar à sua tela. Sem essa regra, fechar o aplicativo no momento certo daria leituras ilimitadas de graça, e quem pagaria por isso seria quem compra.
 
-Se o crédito se perder por falha do aplicativo, e não por a leitura ter sido interrompida do seu lado, escreva para tothgoncalvessd@gmail.com. Os seus direitos de consumidor continuam valendo integralmente, e a seção 11 diz que a nossa responsabilidade por crédito comprado não é afastada por nada nestes Termos.
+Se o crédito se perder por falha do aplicativo, e não por a leitura ter sido interrompida do seu lado, escreva para contato@tgsd.com.br. Os seus direitos de consumidor continuam valendo integralmente, e a seção 11 diz que a nossa responsabilidade por crédito comprado não é afastada por nada nestes Termos.
 
 ### 7.4 Compra, preço e reembolso
 
 - A compra e a cobrança são processadas integralmente pelo **Google Play**, segundo os termos do Google. Não recebemos os seus dados de pagamento.
 - O preço vigente é sempre o **exibido pela loja no momento da compra**. Podemos alterar preços para compras futuras; isso nunca muda o valor de uma compra já feita nem o saldo que você já tem.
-- **Reembolso segue a política do Google Play**, e é pedido lá — não processamos reembolsos diretamente. Isso não afasta o **direito de arrependimento em sete dias** do artigo 49 do Código de Defesa do Consumidor: se você quiser exercê-lo e a loja não resolver, escreva para tothgoncalvessd@gmail.com.
+- **Reembolso segue a política do Google Play**, e é pedido lá — não processamos reembolsos diretamente. Isso não afasta o **direito de arrependimento em sete dias** do artigo 49 do Código de Defesa do Consumidor: se você quiser exercê-lo e a loja não resolver, escreva para contato@tgsd.com.br.
 - Compra reembolsada tem os créditos correspondentes retirados da carteira. Se eles já tiverem sido usados, o saldo pode ficar negativo até ser reposto.
 
 ### 7.5 Teto de gasto
@@ -152,4 +152,4 @@ Estes Termos são regidos pela lei brasileira. Fica eleito o foro do domicílio 
 
 ## 14. Contato
 
-tothgoncalvessd@gmail.com
+contato@tgsd.com.br
