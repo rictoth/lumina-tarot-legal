@@ -21,6 +21,15 @@ Com o Pages ligado no branch `main`, pasta raiz:
 
 A primeira é a que vai no campo **Política de Privacidade** da ficha do Play Console.
 
+Traduções (desde 03/10/2026), por conveniência — o pt é o texto oficial e prevalece, e a URL do
+Play Console continua sendo a pt:
+
+- inglês — `privacy.html` e `terms.html`
+- espanhol — `privacidad.html` e `terminos.html`
+
+Cada página traz no topo os links para as outras versões do mesmo documento (campos `doc`, `ordem`
+e `nome_do_idioma` no cabeçalho), e o layout troca rodapé e "voltar" pelo `lang` da página.
+
 ## Como o conteúdo chega aqui
 
 Os textos **não são escritos neste repositório**. Eles moram em
@@ -31,7 +40,8 @@ remove na exibição para não repetir o título da barra.
 As páginas `.html` são só invólucro: cada uma inclui o `.md` correspondente e o converte. Assim
 existe uma fonte só, e os documentos não divergem entre o app e a web.
 
-Para atualizar depois de mexer nos textos do app:
+Para atualizar depois de mexer nos textos do app (enquanto o inglês e o espanhol não estiverem na
+`main` do app, passe `-Origem "C:\Meus Projetos\Taro-idiomas"`):
 
 ```powershell
 .\atualizar.ps1
